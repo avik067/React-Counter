@@ -1,0 +1,27 @@
+.div {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #2d3a35;
+  font-weight: 1000;
+}
+p {
+  color: 2d3a35;
+}
+.btn {
+  background-color: #007bff;
+  height: 50px;
+  width: 100px;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+span {
+  color: #c20a72;
+}
